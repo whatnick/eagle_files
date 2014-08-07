@@ -1,4 +1,6 @@
-eagle_files
+Eagle Files
 ===========
 
-Eagle Files for various projects
+Eagle Files for various projects. These include:
+
+1: Xadow SD Card Module
