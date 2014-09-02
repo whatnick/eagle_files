@@ -755,8 +755,8 @@ Based on the following sources:
 <sheet>
 <plain>
 <text x="191.77" y="11.43" size="1.778" layer="94" ratio="10">Tisham Dhar</text>
-<text x="191.77" y="5.08" size="1.778" layer="94" ratio="10">06/08/2014</text>
-<text x="224.79" y="5.08" size="1.778" layer="94" ratio="10">v0.1a</text>
+<text x="191.77" y="5.08" size="1.778" layer="94" ratio="10">02/09/2014</text>
+<text x="224.79" y="5.08" size="1.778" layer="94" ratio="10">v2.0</text>
 </plain>
 <instances>
 <instance part="J2" gate="G$1" x="81.28" y="118.11"/>
